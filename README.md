@@ -7,3 +7,8 @@
 [Zigbee终端设备入网过程](https://blog.csdn.net/weixin_30713953/article/details/95777685)  
 [ZigBee协议栈---组网，入网以及操作系统程序解析](https://blog.csdn.net/qq_27747359/article/details/94649551)  
 [zigbee 更换协调器后终端不能直接加入网络](https://e2echina.ti.com/question_answer/wireless_connectivity/zigbee/f/104/t/143276)  
+[ZigBee终端入网方式深入分析](https://blog.csdn.net/m12m12m1/article/details/46661593?locationNum=11)  
+
+
+
+
