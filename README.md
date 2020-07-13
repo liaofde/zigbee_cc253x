@@ -10,6 +10,7 @@
 [ZigBee终端入网方式深入分析](https://blog.csdn.net/m12m12m1/article/details/46661593?locationNum=11)  
 [zigbee终端无法重连的问题解决](https://blog.csdn.net/MENGHUANBEIKE/article/details/52524656?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase)  
 [协调器掉线，路由和终端节点的不同表现](https://blog.csdn.net/xiaoaide01/article/details/23953579)  
+[ZigBee终端直接入网（Direct Join）方式分析](https://blog.csdn.net/m12m12m1/article/details/45918207)  
 
 
 
