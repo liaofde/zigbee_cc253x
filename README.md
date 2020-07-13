@@ -12,7 +12,7 @@
 [协调器掉线，路由和终端节点的不同表现](https://blog.csdn.net/xiaoaide01/article/details/23953579)  
 [ZigBee终端直接入网（Direct Join）方式分析](https://blog.csdn.net/m12m12m1/article/details/45918207)  
 [zigbee让设备直接加入网络(DirectJion) (附代码)](https://blog.csdn.net/jk110333/article/details/22298705)  
-[Zigbee3.0设备自定义ZCL数据包发送数据](https://blog.csdn.net/up5201314/article/details/88644248)
+[ZigBee_CC2530_Zstack3.0.2 收发自定义数据](http://www.51hei.com/bbs/home.php?mod=space&uid=481420&do=blog&id=10770)  
 
 
 
