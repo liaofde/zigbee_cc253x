@@ -8,8 +8,8 @@
 [ZigBee协议栈---组网，入网以及操作系统程序解析](https://blog.csdn.net/qq_27747359/article/details/94649551)  
 [zigbee 更换协调器后终端不能直接加入网络](https://e2echina.ti.com/question_answer/wireless_connectivity/zigbee/f/104/t/143276)  
 [ZigBee终端入网方式深入分析](https://blog.csdn.net/m12m12m1/article/details/46661593?locationNum=11)  
-[zigbee终端无法重连的问题解决](https://blog.csdn.net/MENGHUANBEIKE/article/details/52524656?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase)
-
+[zigbee终端无法重连的问题解决](https://blog.csdn.net/MENGHUANBEIKE/article/details/52524656?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase)  
+[协调器掉线，路由和终端节点的不同表现](https://blog.csdn.net/xiaoaide01/article/details/23953579)  
 
 
 
