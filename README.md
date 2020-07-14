@@ -25,8 +25,8 @@
 [ZStack禁止入网](https://blog.csdn.net/u010119959/article/details/51122312)  
 [根据MAC地址获取网络地址及ZDP_NwkAddrReq函数的用法](https://www.cnblogs.com/F-beifeng/p/9707278.html)  
 [ZIGBEE对网络传输内容用AES加密](https://wenku.baidu.com/view/699d94d9b7360b4c2f3f642b.html)  
-[ZigBee安全和加密](https://www.cnblogs.com/mm327596194/articles/7098009.html)
-
+[ZigBee安全和加密](https://www.cnblogs.com/mm327596194/articles/7098009.html)  
+[Zigbee低功耗节点设计](https://blog.csdn.net/u012993936/article/details/83449105?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1)  
 
 
 
