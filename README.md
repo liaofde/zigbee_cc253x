@@ -20,9 +20,9 @@
 [zigbee（CC2530+ZSTACK）的AES加密](https://blog.csdn.net/geek_monkey/article/details/53116226)    
 [zigbee 可以拒绝设备入网吗？Black list implementation](https://processors.wiki.ti.com/index.php/Black_list_implementation)  
 [NLME_PermitJoiningRequest(0)是禁止新节点加入网络还是加入本节点](https://e2echina.ti.com/question_answer/wireless_connectivity/zigbee/f/104/t/81476)  
-[关于ZIGBEE使用NLME_PermitJoiningRequest（）控制节点加入网络解答](https://www.amobbs.com/thread-5583643-1-1.html?_dsign=f9a16e23)
+[关于ZIGBEE使用NLME_PermitJoiningRequest（）控制节点加入网络解答](https://www.amobbs.com/thread-5583643-1-1.html?_dsign=f9a16e23)  
 [采集节点与传感节点的通信分析](http://www.doc88.com/p-7973315994736.html)   
-
+[ZStack禁止入网](https://blog.csdn.net/u010119959/article/details/51122312)
 
 
 
