@@ -19,6 +19,7 @@
 [Zigbee如何防止加入不该加的网络](http://blog.sina.com.cn/s/blog_542bad910102vp2p.html)  
 [zigbee（CC2530+ZSTACK）的AES加密](https://blog.csdn.net/geek_monkey/article/details/53116226)    
 [zigbee 可以拒绝设备入网吗？Black list implementation](https://processors.wiki.ti.com/index.php/Black_list_implementation)  
+[NLME_PermitJoiningRequest(0)是禁止新节点加入网络还是加入本节点](https://e2echina.ti.com/question_answer/wireless_connectivity/zigbee/f/104/t/81476)  
    
 
 
