@@ -14,8 +14,12 @@
 [zigbee让设备直接加入网络(DirectJion) (附代码)](https://blog.csdn.net/jk110333/article/details/22298705)  
 [ZigBee_CC2530_Zstack3.0.2 收发自定义数据](http://www.51hei.com/bbs/home.php?mod=space&uid=481420&do=blog&id=10770)  
 [zigbee在ZSTACK中使用直接加入功能](http://zigbee-sh.cn/download.asp?id=23&language=cn)  
-[zigbee开启及清除NV_RESTORE信息的方法](https://www.cnblogs.com/mengfanrong/p/5185030.html)
-
+[zigbee开启及清除NV_RESTORE信息的方法](https://www.cnblogs.com/mengfanrong/p/5185030.html)  
+[Zigbee协调器如何禁止入网以及限时入网](https://blog.csdn.net/qq_27747359/article/details/96325853)  
+[Zigbee如何防止加入不该加的网络](http://blog.sina.com.cn/s/blog_542bad910102vp2p.html)  
+    
+    
+   
 
 
 
