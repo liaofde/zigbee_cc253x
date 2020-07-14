@@ -24,7 +24,7 @@
 [采集节点与传感节点的通信分析](http://www.doc88.com/p-7973315994736.html)   
 [ZStack禁止入网](https://blog.csdn.net/u010119959/article/details/51122312)  
 [根据MAC地址获取网络地址及ZDP_NwkAddrReq函数的用法](https://www.cnblogs.com/F-beifeng/p/9707278.html)  
-
+[ZIGBEE对网络传输内容用AES加密](https://wenku.baidu.com/view/699d94d9b7360b4c2f3f642b.html)  
 
 
 
