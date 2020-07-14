@@ -18,7 +18,7 @@
 [Zigbee协调器如何禁止入网以及限时入网](https://blog.csdn.net/qq_27747359/article/details/96325853)  
 [Zigbee如何防止加入不该加的网络](http://blog.sina.com.cn/s/blog_542bad910102vp2p.html)  
 [zigbee（CC2530+ZSTACK）的AES加密](https://blog.csdn.net/geek_monkey/article/details/53116226)    
-    
+[zigbee 可以拒绝设备入网吗？Black list implementation](https://processors.wiki.ti.com/index.php/Black_list_implementation)  
    
 
 
