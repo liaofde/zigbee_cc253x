@@ -17,7 +17,7 @@
 [zigbee开启及清除NV_RESTORE信息的方法](https://www.cnblogs.com/mengfanrong/p/5185030.html)  
 [Zigbee协调器如何禁止入网以及限时入网](https://blog.csdn.net/qq_27747359/article/details/96325853)  
 [Zigbee如何防止加入不该加的网络](http://blog.sina.com.cn/s/blog_542bad910102vp2p.html)  
-    
+[CC2530如何实现无线发送数据加密和解密](https://e2echina.ti.com/question_answer/wireless_connectivity/zigbee/f/104/t/77848)    
     
    
 
