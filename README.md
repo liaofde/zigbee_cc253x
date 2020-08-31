@@ -29,4 +29,4 @@
 [Zigbee低功耗节点设计](https://blog.csdn.net/u012993936/article/details/83449105?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1)  
 [ZigBee/Z-Stack CC2530实现低功耗运行的配置简介](http://bbs.elecfans.com/jishu_914377_1_1.html)  
 [CC2530 2.4G ZigBee 低功耗PCB设计需注意几点](https://blog.csdn.net/gylywp/article/details/53425964)  
-
+[CC2530 NV最细致讲解操作](https://blog.csdn.net/naruto_dong/article/details/77160970?utm_source=blogxgwz9)
