@@ -32,3 +32,4 @@
 [ZStack(CC2530) 断电存储(NV)方法](https://blog.csdn.net/huangmeimao/article/details/73649301?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)  
 
 [Mesh1.0.0传输距离问题，实测比2.5.1a差一倍，求解](https://bbs.elecfans.com/jishu_1593879_1_1.html)  
+[ZIGBEE获取本设备及父设备的IEEE64地址和短地址](https://blog.csdn.net/jk110333/article/details/22290349)  
