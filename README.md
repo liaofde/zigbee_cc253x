@@ -30,3 +30,5 @@
 [ZigBee/Z-Stack CC2530实现低功耗运行的配置简介](http://bbs.elecfans.com/jishu_914377_1_1.html)  
 [CC2530 2.4G ZigBee 低功耗PCB设计需注意几点](https://blog.csdn.net/gylywp/article/details/53425964)  
 [ZStack(CC2530) 断电存储(NV)方法](https://blog.csdn.net/huangmeimao/article/details/73649301?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)  
+
+[Mesh1.0.0传输距离问题，实测比2.5.1a差一倍，求解](https://bbs.elecfans.com/jishu_1593879_1_1.html)  
