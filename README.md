@@ -30,7 +30,7 @@
 [CC2530 2.4G ZigBee 低功耗PCB设计需注意几点](https://blog.csdn.net/gylywp/article/details/53425964)  
 
 ## 绑定相关  
-[ZigBee的 四种绑定方法简介](https://www.cnblogs.com/xiaowendianqiuxiang/p/5604018.html)  
+[ZigBee的四种绑定方法简介](https://www.cnblogs.com/xiaowendianqiuxiang/p/5604018.html)  
 [ZigBee绑定细节](https://www.cnblogs.com/cherishui/p/3892917.html)  
 
 ## NV存储相关  
