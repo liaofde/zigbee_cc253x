@@ -1,6 +1,6 @@
 # zigbee_cc253x  
 
-##入网/离网相相关  
+## 入网/离网相相关  
 [ZStack禁止入网](https://blog.csdn.net/u010119959/article/details/51122312)  
 [zigbee 可以拒绝设备入网吗？Black list implementation](https://processors.wiki.ti.com/index.php/Black_list_implementation)  
 [根据MAC地址获取网络地址及ZDP_NwkAddrReq函数的用法](https://www.cnblogs.com/F-beifeng/p/9707278.html)  
@@ -19,23 +19,23 @@
 [ZigBee终端直接入网（Direct Join）方式分析](https://blog.csdn.net/m12m12m1/article/details/45918207)  
 [zigbee让设备直接加入网络(DirectJion) (附代码)](https://blog.csdn.net/jk110333/article/details/22298705)  
 
-##加密相关
+## 加密相关  
 [ZIGBEE对网络传输内容用AES加密](https://wenku.baidu.com/view/699d94d9b7360b4c2f3f642b.html)  
 [ZigBee安全和加密](https://www.cnblogs.com/mm327596194/articles/7098009.html)  
 [zigbee（CC2530+ZSTACK）的AES加密](https://blog.csdn.net/geek_monkey/article/details/53116226)    
 
-##低功耗相关
+## 低功耗相关  
 [Zigbee低功耗节点设计](https://blog.csdn.net/u012993936/article/details/83449105?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1)  
 [ZigBee/Z-Stack CC2530实现低功耗运行的配置简介](http://bbs.elecfans.com/jishu_914377_1_1.html)  
 [CC2530 2.4G ZigBee 低功耗PCB设计需注意几点](https://blog.csdn.net/gylywp/article/details/53425964)  
 
-##绑定相关
+## 绑定相关  
 [ZigBee的 四种绑定方法简介](https://www.cnblogs.com/xiaowendianqiuxiang/p/5604018.html)  
 
-##NV存储相关
+## NV存储相关  
 [ZStack(CC2530) 断电存储(NV)方法](https://blog.csdn.net/huangmeimao/article/details/73649301?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)  
 
-##其它  
+## 其它    
 [Mesh1.0.0传输距离问题，实测比2.5.1a差一倍，求解](https://bbs.elecfans.com/jishu_1593879_1_1.html)  
 [ZIGBEE获取本设备及父设备的IEEE64地址和短地址](https://blog.csdn.net/jk110333/article/details/22290349)  
 [采集节点与传感节点的通信分析](http://www.doc88.com/p-7973315994736.html)     
