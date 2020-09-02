@@ -23,6 +23,7 @@
 
 ## 组播相关  
 [zigbee组播协调器发送消息终端接不到](https://zhidao.baidu.com/question/239176015235466804.html)  
+[Zigbee网络通信之组播](https://www.jianshu.com/p/c3ecc87c4da7)  
 
 ## 加密相关  
 [ZIGBEE对网络传输内容用AES加密](https://wenku.baidu.com/view/699d94d9b7360b4c2f3f642b.html)  
