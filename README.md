@@ -20,6 +20,8 @@
 [zigbee让设备直接加入网络(DirectJion) (附代码)](https://blog.csdn.net/jk110333/article/details/22298705)  
 
 ## 绑定相关  
+[ZigBee的四种绑定方法简介](https://www.cnblogs.com/xiaowendianqiuxiang/p/5604018.html)  
+[ZigBee绑定细节](https://www.cnblogs.com/cherishui/p/3892917.html)  
 
 ## 组播相关  
 [zigbee组播协调器发送消息终端接不到](https://zhidao.baidu.com/question/239176015235466804.html)  
@@ -34,10 +36,6 @@
 [Zigbee低功耗节点设计](https://blog.csdn.net/u012993936/article/details/83449105?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1)  
 [ZigBee/Z-Stack CC2530实现低功耗运行的配置简介](http://bbs.elecfans.com/jishu_914377_1_1.html)  
 [CC2530 2.4G ZigBee 低功耗PCB设计需注意几点](https://blog.csdn.net/gylywp/article/details/53425964)  
-
-## 绑定相关  
-[ZigBee的四种绑定方法简介](https://www.cnblogs.com/xiaowendianqiuxiang/p/5604018.html)  
-[ZigBee绑定细节](https://www.cnblogs.com/cherishui/p/3892917.html)  
 
 ## NV存储相关  
 [ZStack(CC2530) 断电存储(NV)方法](https://blog.csdn.net/huangmeimao/article/details/73649301?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)  
