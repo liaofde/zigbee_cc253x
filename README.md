@@ -31,6 +31,7 @@
 
 ## 绑定相关  
 [ZigBee的 四种绑定方法简介](https://www.cnblogs.com/xiaowendianqiuxiang/p/5604018.html)  
+[ZigBee绑定细节](https://www.cnblogs.com/cherishui/p/3892917.html)  
 
 ## NV存储相关  
 [ZStack(CC2530) 断电存储(NV)方法](https://blog.csdn.net/huangmeimao/article/details/73649301?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)  
