@@ -19,6 +19,11 @@
 [ZigBee终端直接入网（Direct Join）方式分析](https://blog.csdn.net/m12m12m1/article/details/45918207)  
 [zigbee让设备直接加入网络(DirectJion) (附代码)](https://blog.csdn.net/jk110333/article/details/22298705)  
 
+## 绑定相关  
+
+## 组播相关  
+[zigbee组播协调器发送消息终端接不到](https://zhidao.baidu.com/question/239176015235466804.html)  
+
 ## 加密相关  
 [ZIGBEE对网络传输内容用AES加密](https://wenku.baidu.com/view/699d94d9b7360b4c2f3f642b.html)  
 [ZigBee安全和加密](https://www.cnblogs.com/mm327596194/articles/7098009.html)  
@@ -46,4 +51,4 @@
 [WeBee-物联网zigbee开发教程网站](http://bbs.01studio.org/forum.php?mod=forumdisplay&fid=46)  
 [Z-Stack协议栈学习笔记7---修改PANID与信道选择](https://blog.csdn.net/stone8761/article/details/79651569?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)  
 [TI协议栈例程GenericApp SampleApp SimpleAp 区别](https://blog.csdn.net/black_yu/article/details/51620279)  
-[zigbee组播协调器发送消息终端接不到](https://zhidao.baidu.com/question/239176015235466804.html)  
+
