@@ -1,6 +1,6 @@
 # zigbee_cc253x  
 
-## 入网/离网相相关  
+## 入网/离网相关  
 [ZStack禁止入网](https://blog.csdn.net/u010119959/article/details/51122312)  
 [zigbee 可以拒绝设备入网吗？Black list implementation](https://processors.wiki.ti.com/index.php/Black_list_implementation)  
 [根据MAC地址获取网络地址及ZDP_NwkAddrReq函数的用法](https://www.cnblogs.com/F-beifeng/p/9707278.html)  
