@@ -22,6 +22,7 @@
 ## 绑定相关  
 [ZigBee的四种绑定方法简介](https://www.cnblogs.com/xiaowendianqiuxiang/p/5604018.html)  
 [ZigBee绑定细节](https://www.cnblogs.com/cherishui/p/3892917.html)  
+[zigbee灯 怎么解除绑定](https://zhidao.baidu.com/question/426215862648880852.html)  
 
 ## 组播相关  
 [zigbee组播协调器发送消息终端接不到](https://zhidao.baidu.com/question/239176015235466804.html)  
